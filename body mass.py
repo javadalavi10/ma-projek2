@@ -8,5 +8,6 @@ a = float(input("Enter your weight:"))
 d= a **2
 
 w = e / d
+
 print("hello",Name,family,"you are living in",city,"This is how much your body mass is")
 print(w)
