@@ -8,7 +8,7 @@ a = float(input("Enter the grade of the second lesson:"))
 s = float(input("Enter the grade of the third lesson:"))
 d=(a+s+f)/3
 
-print("student",Name,family,"you",city,country)
+print("student",Name,family,city,country)
 
 if d < 10 :
     print("The card is broken","&quot\U0001F923&quot")
